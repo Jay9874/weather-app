@@ -14,7 +14,7 @@ body{
 }
 
 .app.warm{
-  background-color: aliceblue;
+  background-image: url('./assests/warm.jfif');
 }
 
 main{
